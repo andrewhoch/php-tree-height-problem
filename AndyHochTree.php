@@ -2,8 +2,7 @@
 
 /*Andy Hoch
  *4/4/17
- *Arvig interview
- */ 
+  */ 
 
 class Node
 {	
